@@ -6,5 +6,5 @@ Developing bot using [discord.js](https://discordjs.guide/)\n
 Two personal bots\n
 Public bot soon\n
 
-###🌱 My Github stats
-[Github stats](https://github-readme-stats.vercel.app/api?username=UndiedHitler)
+### 🌱 My Github stats
+! [Github stats](https://github-readme-stats.vercel.app/api?username=UndiedHitler)
