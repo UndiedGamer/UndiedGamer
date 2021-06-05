@@ -7,4 +7,4 @@ Two personal bots\n
 Public bot soon\n
 
 ###🌱 My Github stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedHitler)
+[Github stats](https://github-readme-stats.vercel.app/api?username=UndiedHitler)
