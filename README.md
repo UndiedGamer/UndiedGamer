@@ -10,4 +10,4 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedHitler)
 
 ### Contact Me
-[![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepnglogos.com%2Fpics%2Fdiscord-logo-png&psig=AOvVaw2VE7Dr4C1rVht0LjLTLih7&ust=1623072201015000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJimhKKNg_ECFQAAAAAdAAAAABAI)](dsc.bio/6206)
+[![](https://www.freepnglogos.com/images/discord-logo-png-7622.html)](dsc.bio/6206)
