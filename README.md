@@ -2,7 +2,7 @@
 I'm a normal person you found on GitHub boasting about themselves...I do JavaScript coding
 
 ### 📫 Current projects & goals
-* Developing bot using [discord.js](https://discordjs.guide/) `#57F287`
+* Developing bot using [discord.js](https://discordjs.guide/)
 * Two personal bots
 * Public bot soon
 
@@ -10,5 +10,5 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedHitler)
 
 ### Contact Me
-[<img src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg" width="50px" color="black">](dsc.bio/6206)
+[<img src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg" width="25px" color="black">](dsc.bio/6206)
 
