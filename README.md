@@ -11,5 +11,5 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 
 ### Contact Me
 [![Discord](https://www.freepnglogos.com/images/discord-logo-png-7622.html)](dsc.bio/6206)
-[<img src="https://online-image-resizer.com/mypic/mMTGyp87oq6EiJZG/Z69Lc/concours-discord-cartes-voeux-.png">](dsc.bio/6206)
+[<img src="https://online-image-resizer.com/mypic/mMTGyp87oq6EiJZG/Z69Lc/concours-discord-cartes-voeux-.png" style="width:4px">](dsc.bio/6206)
 
