@@ -4,7 +4,7 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 ### 📫 Current projects & goals
 * Developing bot using [discord.js](https://discordjs.guide/)
 * Two personal bots
-* Public bot soon
+* [Public bot](https://www/github.com/UndiedHitler/Obligator)
 
 ### 🌱 My Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedHitler)
