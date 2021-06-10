@@ -7,7 +7,7 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 * [One Public Bot](https://www/github.com/UndiedHitler/Obligator)
 
 ### 🌱 My Github stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedHitler?showicons=true?theme=cobalt)
+![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedGamer&show_icons=true&theme=cobalt)
 
 ### 📧 Contact Me
 [<img src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg" width="35px">](https://dsc.bio/6206) 
