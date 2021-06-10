@@ -9,7 +9,7 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 ### 🌱 My Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedGamer&show_icons=true&count_private=true&theme=blueberry)\
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&theme=blueberry)](https://github.com/UndiedGamer/Obligator)\
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UndiedGamer&repo=Obligator&theme=blueberry)](https://github.com/UndiedGamer/Obligator&theme=blueberry)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=UndiedGamer&repo=Obligator&theme=blueberry)](https://github.com/UndiedGamer/Obligator)
 
 ### 📧 Contact Me
 [<img src="https://discord.com/assets/2d20a45d79110dc5bf947137e9d99b66.svg" width="35px">](https://dsc.bio/6206) 
