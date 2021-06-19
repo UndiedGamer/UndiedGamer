@@ -11,5 +11,6 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 
 ### 🌱 My Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedGamer&show_icons=true&count_private=true&theme=dark)\
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=undiedgamer&layout=compact&theme=tokyonight"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&theme=dark)](https://github.com/UndiedGamer/Obligator)\
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=UndiedGamer&repo=Obligator&theme=dark)](https://github.com/UndiedGamer/Obligator)
