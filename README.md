@@ -12,10 +12,10 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 # My Github stats
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedGamer&show_icons=true&count_private=true&theme=radical)\
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=undiedgamer&layout=compact&theme=radical"/>\
-<img src="https://activity-graph.herokuapp.com/graph?username=UndiedGamer&theme=rogue"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=UndiedGamer&theme=radical"/>
 
 # My Favourite Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&langs_count=8&theme=radical)](https://github.com/UndiedGamer/Obligator)
 
 # Repositories I Am Proud Of
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=ObligatorBot&repo=Obligator&theme=dark)](https://github.com/UndiedGamer/Obligator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=ObligatorBot&repo=Obligator&theme=radical)](https://github.com/UndiedGamer/Obligator)
