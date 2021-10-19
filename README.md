@@ -18,4 +18,4 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&count_private=false&langs_count=8&theme=radical)](https://github.com/UndiedGamer/Obligator)
 
 # Repositories I Am Proud Of
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=ObligatorBot&repo=Obligator&theme=radical)](https://github.com/UndiedGamer/Obligator)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spectera-bot&repo=Spectera&theme=radical)](https://github.com/Spectera-bot/Spectera)
