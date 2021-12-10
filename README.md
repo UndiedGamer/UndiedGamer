@@ -15,7 +15,7 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 <img src="https://activity-graph.herokuapp.com/graph?username=UndiedGamer&theme=radical"/>
 
 # My Favourite Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&count_private=false&langs_count=8&theme=radical)](https://github.com/UndiedGamer/Obligator)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&count_private=false&langs_count=8&theme=radical)
 
 # Repositories I Am Proud Of
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=Spectera-bot&repo=Spectera&theme=radical)](https://github.com/Spectera-bot/Spectera)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=SpecteraLabs&repo=Spectera&theme=radical)](https://github.com/Spectera-bot/Spectera)
