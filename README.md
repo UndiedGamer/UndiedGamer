@@ -19,3 +19,6 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 
 # Repositories I Am Proud Of
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin?username=SpecteraLabs&repo=Spectera&theme=radical)](https://github.com/Spectera-bot/Spectera)
+
+# Useless Trophy Collection
+![Trophy](https://github-profile-trophy.vercel.app/?username=1olipop&row=1&margin-w=5)
