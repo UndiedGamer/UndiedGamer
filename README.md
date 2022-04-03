@@ -16,6 +16,3 @@ I'm a normal person you found on GitHub boasting about themselves...I do JavaScr
 
 # My Favourite Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&count_private=false&langs_count=8&theme=radical)
-
-# Useless Trophy Collection
-![Trophy](https://github-profile-trophy.vercel.app/?username=1olipop&row=1&margin-w=5)
