@@ -10,7 +10,10 @@ Some of the projects i work on:
 - [Attender](): Another WIP Attendance manager with sync support, written in NativeScript.
 
 # My Github stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=UndiedGamer&show_icons=true&count_private=true&theme=radical)\
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=undiedgamer&layout=compact&theme=radical"/>\
-<img src="https://activity-graph.herokuapp.com/graph?username=UndiedGamer&theme=radical"/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&count_private=false&langs_count=8&theme=radical)
+<div>
+  <a href="https://github.com/UndiedGamer">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UndiedGamer&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&include_all_commits=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UndiedGamer&layout=compact&langs_count=7&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&count_private=true&show_icons=true&theme=dark"/>
+  </a>
+</div>
+
