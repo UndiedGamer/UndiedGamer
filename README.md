@@ -7,8 +7,8 @@ Some of the projects i work on:
 - [Tagger](https://github.com/SpecteraLabs/Tagger): A simple bot that creates custom tags programmable with TagScript.
 - [pfcreator](https://github.com/UndiedGamer/pfcreator): A simple cli tool that helps me create practical lab files.
 - [template-manager](): A WIP template-manager written in Go.
-- [Attender](): Another WIP Attendance manager with sync support, written in NativeScript.
-
+- [turbulent](): A WIP discord bot framework to run on serverless environments.
+  
 # My Github stats
 <div>
   <a href="https://github.com/UndiedGamer">
